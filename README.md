@@ -66,7 +66,7 @@ Con git instalado podemos clonar el repositorio del TP a su PC. De esta manera, 
 
 Hay tres formas de clonar un repositorio:
 
-- Utilizando la url que comienza con *https://git.exactas.uba.ar/*
+- Utilizando la url que comienza con *https://github.com/AyOC-exactas/*
 - Por SSH
 - Por Github CLI
 
